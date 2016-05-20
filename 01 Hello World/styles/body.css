@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+h1 {
+	color: green;
+}
+
+.blue-paragraph {
+	color: blue;
+}
+
+.green-paragraph {
+	color: green;
+}
+
+h2.green-paragraph {	/* special paragraph */
+	color: lime;
+	text-shadow: 2px -2px 5px blue;
+	border: medium;
+	border-color: fuchsia;
+	background-color: yellow;
+}
